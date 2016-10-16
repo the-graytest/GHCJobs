@@ -1,312 +1,312 @@
-Name,BoothNumber,Industry,Glass door Overall,Size,Location,Interested?,
-@USAA,"2105, 3733, 3735",Insurance,3.6,10000+,San Antonio,No,
-@WalmartLabs | Walmart Technology,"3240, 2231, 3241, 3242, 3243, 3244, 3245, 3246, 3247, 3248, 3250, 3252",,3.2,5000,,,
-3M,"2000, 3904, 3906",,,,,,
-Accenture,"1130, 3942, 3944, 3946, 3948, 3950",,,,,,
-ACM / ACM-W,"2705, 3844",,,,,,
-ActBlue,2841A,,,,,,
-Activision,1040,,,,,,
-Activities,1007,,,,,,
-Acxiom,2943A,,,,,,
-Adobe,"2222, 3809",,,,,,
-ADP,"1926, 3734",,,,,,
-AIG,"2303, 3914",,,,,,
-Airbnb,"1613, 3830, 3832, 3834",,,,,,
-Akamai,"2933, 3742",,,,,,
-Allstate Insurance Company,"1304, 3935",,,,,,
-Amazon,"2211, 3313, 3315",,,,,,
-American Express,"1240, 3952, 3953",,,,,,
-American Museum of Natural History - Helen Fellowship,2602,,,,,,
-American University - Department of Computer Science,2643A,,,,,,
-Andreessen Horowitz,925,,,,,,
-AppDynamics,2722,,,,,,
-Appian,1040A,,,,,,
-Appirio,2729A,,,,,,
-"Apple, Inc.","3221, 2020, 3223, 3225, 3227, 3229, 3231, 3233, 3235, 3320, 3321, 3322, 3323, 3324, 3325, 3326, 3327, 3328, 3329, 3330, 3331, 3332, 3333, 3334, 3335",,,,,,
-Argonne National Laboratory,2909,,,,,,
-Arizona State University,2901,,,,,,
-AT&T,"1201, 3905, 3907",,,,,,
-athenahealth,"3846, 2034",,,,,,
-Automattic,"1021, 3848",,,,,,
-Avanade,"1230, 3445, 3447",,,,,,
-Bank of America,"2531, 3249, 3251, 3253, 3352, 3353",,,,,,
-Bentley University McCallum Graduate School of Business,2611,,,,,,
-Best Buy,"2621, 3921",,,,,,
-Blackbaud,942A,,,,,,
-BlackRock,2732,,,,,,
-Blend,940,,,,,,
-Bloomberg L.P.,"1930, 3726",,,,,,
-Blue Apron,2726A,,,,,,
-BNY Mellon,"2321, 3300, 3302",,,,,,
-Booking.com,1100,,,,,,
-Boston University,2525,,,,,,
-Box,"2600, 3731",,,,,,
-"Brocade Communications Systems, Inc.",944A,,,,,,
-Brown University,1205,,,,,,
-CA Technologies,"2327, 3307",,,,,,
-Cadence,"2341, 3549",,,,,,
-"Cal Poly, San Luis Obispo -- Computer Science and Software Engineering Department",2833,,,,,,
-California Institute of Technology,906,,,,,,
-California State University - Chico,2642,,,,,,
-Canonical,2941,,,,,,
-Capital One,"1709, 3201, 3203, 3205, 3207, 3209, 3211, 3213, 3215",,,,,,
-Carbon,940A,,,,,,
-CareerBuilder,"1504, 3752",,,,,,
-Carnegie Mellon University - Heinz College,1502,,,,,,
-Carnegie Mellon University Software Engineering Institute,2934,,,,,,
-"Carnegie Mellon University, Information Networking Institute",1401,,,,,,
-CDW,"2424, 3635",,,,,,
-Cerner Corporation,2641A,,,,,,
-Cimpress,"2527, 3621",,,,,,
-"Cisco Systems, Inc.","1720, 3721, 3723, 3725, 3727, 3729, 3820, 3822, 3824, 3826, 3828",,,,,,
-Citi,2835A,,,,,,
-Civis Analytics Relaxation Lounge,1028,,,,,,
-ClassPass,2641,,,,,,
-CME Group,"2305, 3922",,,,,,
-Collective Health,"2123, 3633",,,,,,
-Colorado State University,2740A,,,,,,
-Comcast NBCUniversal,"2710, 3829",,,,,,
-Cornell Tech,2740,,,,,,
-Coursera,2942,,,,,,
-Cox Automotive Technology,"4034, 2410",,,,,,
-CRA-W,1122,,,,,,
-Credera,941,,,,,,
-"Cybersecurity Education Research and Outreach Center, Tennessee Tech",2734A,,,,,,
-D. E. Shaw & Co.,"2200, 4006",,,,,,
-Dell,"1923, 3304, 3306, 3308",,,,,,
-"Department of Computer Science, Dartmouth College",2802,,,,,,
-Deutsche Bank,"1311, 3649",,,,,,
-Digital Innovation Group at Providence Health & Services,2227,,,,,,
-Diversity in Action,2731A,,,,,,
-DoubleDutch,2541A,,,,,,
-Drexel University,2832A,,,,,,
-Dropbox,"2400, 3301, 3303",,,,,,
-DUKE COMPUTER SCIENCE,2002,,,,,,
-eBay,"1213, 3220, 3222",,,,,,
-Electronic Arts,"2101, 3600",,,,,,
-Embry-Riddle Aeronautical University,2934A,,,,,,
-EMC,"1921, 3305",,,,,,
-Enova,941A,,,,,,
-Ericsson,"3602, 2511, 3604",,,,,,
-ESPN Charging Lounge,2721,,,,,,
-Evernote,1144,,,,,,
-"Expedia, Inc.","1404, 3751, 3753",,,,,,
-EY LLP,"1300, 3453",,,,,,
-"Facebook, Inc.","731, 3520, 3521, 3522, 3523, 3524, 3525, 3526, 3527, 3528, 3529, 3530, 3531, 3532, 3533, 3534, 3535, 3540, 3541",,,,,,
-FactSet Research Systems Inc.,"2306, 3626",,,,,,
-Fannie Mae,"2125, 3630",,,,,,
-"Fast Enterprises, LLC","1500, 3934",,,,,,
-Fiat Chrysler Automobiles,"1931, 3930, 3932",,,,,,
-Fidelity Investments,"2622, 3749",,,,,,
-FINRA,"1933, 3850",,,,,,
-"FireEye, Inc.",2722A,,,,,,
-fitbit,"1004, 3908",,,,,,
-Flatiron Health,2944A,,,,,,
-Foursquare,2643,,,,,,
-Fox Networks Group,2830A,,,,,,
-Freddie Mac,2729,,,,,,
-FreeBSD Foundation,2004,,,,,,
-Gap Inc.,"2121, 3623",,,,,,
-GE,"1813, 3212, 3214",,,,,,
-Georgia Institute of Technology,2300,,,,,,
-GHC Lounge,"2906, 1002, 1343, 2704, 2731, 2733, 910",,,,,,
-Girls Who Code,"1934, 3550",,,,,,
-GoDaddy,"2013, 3200, 3202, 3204",,,,,,
-Goldman Sachs,"2625, 3825",,,,,,
-Google,"1730, 3601, 3603, 3605, 3607, 3700, 3701, 3702, 3703, 3704, 3705, 3706, 3707, 3709, 3711, 3712, 3713, 3714, 3715, 3800, 3802, 3804, 3806, 3808, 3810, 3812, 3814",,,,,,
-Groupon,"1020, 4020",,,,,,
-Gusto,"1027, 3544",,,,,,
-Harris Corporation,"1111, 3926, 3928",,,,,,
-Harvey Mudd College,2800,,,,,,
-Hasso Plattner Institute,2807,,,,,,
-HBO,2835,,,,,,
-Hewlett Packard Enterprise,"3206, 1101",,,,,,
-Honeywell,"3640, 1013, 3641, 3642, 3643",,,,,,
-Hortonworks,"2225, 3628",,,,,,
-HubSpot,2735,,,,,,
-Hulu,1042A,,,,,,
-IBM,"1607, 3506, 3508",,,,,,
-Imperial Infosys,2932,,,,,,
-Indeed,"1400, 3929",,,,,,
-Indiana University School of Informatics and Computing,1109,,,,,,
-"Institute for Advanced Analytics, NC State University",2204,,,,,,
-Intel Corporation,"2331, 3401, 3403, 3405, 3407, 3409, 3411, 3413, 3415",,,,,,
-Internet Society,2325,,,,,,
-"Intuit, Inc.","2613, 3423, 3425, 3427, 3429, 3431, 3433",,,,,,
-Jane Street,2720A,,,,,,
-Jet,"3903, 2809",,,,,,
-Johns Hopkins Engineering,2902,,,,,,
-Johns Hopkins University Information Security Institute,2900,,,,,,
-Johnson & Johnson,"1301, 4022",,,,,,
-JP Morgan Chase & Co,"1113, 3833, 3835",,,,,,
-Juniper Networks Inc.,"1601, 3613, 3615",,,,,,
-Kaiser Permanente,1935,,,,,,
-kCura,"2635, 3543",,,,,,
-Khan Academy,1532,,,,,,
-KPMG LLP,"902, 3845",,,,,,
-Lawrence Berkeley National Laboratory,2911,,,,,,
-Lawrence Livermore National Laboratory (LLNL),"3924, 2915",,,,,,
-LeanIn.Org,1000,,,,,,
-Liberal Arts College Association for Faculty Inclusion,2940A,,,,,,
-Liberty Mutual Insurance,"2624, 3823",,,,,,
-LinkedIn,"4014, 3913, 3915, 4012, 913",,,,,,
-Los Alamos National Laboratory,2843,,,,,,
-Los Alamos National Laboratory,2905,,,,,,
-"Lowe's Companies, Inc.","2505, 3801, 3900",,,,,,
-macys.com,"2631, 3648",,,,,,
-MailChimp,"2127, 3542",,,,,,
-Marketo,"2601, 3546",,,,,,
-Massachusetts Institute of Technology,900,,,,,,
-MasterCard,"2404, 3512, 3513, 3514, 3515",,,,,,
-McKinsey & Company,2642A,,,,,,
-Media,1241,,,,,,
-Medtronic,"2714, 3840",,,,,,
-Michigan State University,942,,,,,,
-Michigan Technological University,2706,,,,,,
-Microsoft,"1800, 3340, 3341, 3342, 3343, 3344, 3346, 3348, 3349, 3350",,,,,,
-MIT Lincoln Laboratory,"2422, 3624",,,,,,
-MongoDB Relaxation Lounge,1911,,,,,,
-Montana State University,2742,,,,,,
-Morgan Stanley,"2206, 3730",,,,,,
-Mylan,"2313, 3644",,,,,,
-National Center for Women & Information Technology (NCWIT),2103,,,,,,
-National Institute of Standards and Technology,2903,,,,,,
-Nationwide,"2713, 3310, 3312, 3314",,,,,,
-Navy Civilian Careers,2928,,,,,,
-Navy Recruiting Command,2931,,,,,,
-NetApp,"2030, 3547",,,,,,
-NetSuite,"921, 3741",,,,,,
-New York Life,"2220, 3632",,,,,,
-Northeastern University - College of Computer and Information Science,1313,,,,,,
-Northrop Grumman,"1208, 3629, 3631",,,,,,
-Northwestern Mutual,"2304, 3831",,,,,,
-Northwestern University,904,,,,,,
-Nutanix,2640A,,,,,,
-NYU Tandon School of Engineering,2831,,,,,,
-Oak Ridge National Laboratory,2907,,,,,,
-Olark,1144A,,,,,,
-Optimizely,2640,,,,,,
-Oracle,924,,,,,,
-Oracle,926,,,,,,
-Oscar Insurance,2724A,,,,,,
-Pace University,1341,,,,,,
-Pacific Northwest National Laboratory,2913,,,,,,
-PaintFest,2141,,,,,,
-Palantir Technologies,"1412, 3748, 3750",,,,,,
-Palo Alto Networks,"2605, 3743, 3745",,,,,,
-PayPal,"2320, 3813, 3815",,,,,,
-Pinterest,"1214, 3351",,,,,,
-Pitney Bowes,"2324, 3807",,,,,,
-Priceline Group,"3933, 1001, 3931",,,,,,
-"Princeton University , School of Engineering & Applied Science",2700,,,,,,
-Project Eos,1331,,,,,,
-"PROS, Inc","2207, 3902",,,,,,
-Prudential,"1901, 3803",,,,,,
-Purdue University,2804,,,,,,
-Pure Storage,"2326, 3551, 3553",,,,,,
-PwC,"2828, 3724",,,,,,
-Qualcomm,"1920, 3505, 3507, 3509, 3511",,,,,,
-Quantcast,"1045, 4002",,,,,,
-Quizlet,2730A,,,,,,
-Quora,"3653, 1207",,,,,,
-Rackspace,"2201, 3612",,,,,,
-Rakuten,"3625, 1924",,,,,,
-Raytheon,"2221, 3821, 3920",,,,,,
-Red Hat,"3923, 2620",,,,,,
-Redfin,1140A,,,,,,
-Rochester Institute of Technology (RIT),2442,,,,,,
-Rockwell Automation,"2501, 3606, 3608",,,,,,
-RosettaCommons,2543A,,,,,,
-Salesforce,"2031, 3441, 3443",,,,,,
-SAP,"2006, 3614",,,,,,
-Schlumberger,"1407, 3646",,,,,,
-Schneider Electric,"2603, 3449",,,,,,
-Sears Holding Corporation,2732A,,,,,,
-Shift,2541,,,,,,
-Shopify,"1440, 3811",,,,,,
-Show Management - Specialty Food,"2741, 2241",,,,,,
-Slack,"1024, 3940",,,,,,
-"Snap, Inc.","1124, 3849, 3851",,,,,,
-Sony Interactive Entertainment (PlayStation),"3651, 2444",,,,,,
-Splunk>,"3545, 2414",,,,,,
-Spotify,1142,,,,,,
-Square,"903, 3847",,,,,,
-Stanford Computer Science Department,2301,,,,,,
-Starbucks,"3842, 2412",,,,,,
-State Farm,"1315, 3652",,,,,,
-Stevens Institute of Technology,2733A,,,,,,
-Stony Brook University,943A,,,,,,
-Stripe,"1120, 3552",,,,,,
-SurveyMonkey,2943,,,,,,
-Symantec Corporation,"2604, 3805",,,,,,
-"Synopsys, Inc.","1927, 4000",,,,,,
-T. Rowe Price,1145,,,,,,
-Tableau,"2311, 3852",,,,,,
-Target,"2521, 3500, 3501, 3502, 3503, 3504",,,,,,
-Teradata,2834,,,,,,
-Texas A&M University - Computer Science and Engineering,2343,,,,,,
-The Anita Borg Institute,1420,,,,,,
-The George Washington University,2930,,,,,,
-The New York Times Developers,2724,,,,,,
-The University of Arizona - MIS and Computer Science departments,2929,,,,,,
-The University of Texas at Austin,2831A,,,,,,
-The Walt Disney Company,3421,,,,,,
-The Walt Disney Company,2821,,,,,,
-theCube,1220,,,,,,
-Thomson Reuters,"2113, 3620, 3622",,,,,,
-ThoughtWorks,"2813, 3208, 3210",,,,,,
-Thumbtack,1142A,,,,,,
-T-Mobile,"1041, 3548",,,,,,
-Travelers Insurance,"2205, 3910, 3912",,,,,,
-TripAdvisor,"3451, 1431",,,,,,
-Tufts University Computer Science Department,2730,,,,,,
-Twilio,"2224, 3650",,,,,,
-Twitch,"2307, 3740",,,,,,
-Twitter,"1905, 3925, 3927",,,,,,
-Two Sigma,"1411, 3224, 3226, 3228, 3230, 3232, 3234",,,,,,
-Two Sigma Ventures,"1410, 3843",,,,,,
-UBER,"2420, 3634",,,,,,
-UC Berkeley,922,,,,,,
-"UC Berkeley, School of Information",907,,,,,,
-UC Irvine,2707,,,,,,
-Udacity,"2226, 3627",,,,,,
-University of Denver,2832,,,,,,
-University of Houston,1025,,,,,,
-"University of Illinois, Urbana-Champaign – CS @ ILLINOIS",1126,,,,,,
-"University of Maryland, Baltimore County",2930A,,,,,,
-"University of Michigan School of Information, Ann Arbor",1302,,,,,,
-"University of Michigan–Ann Arbor, Computer Science & Engineering",1405,,,,,,
-University of Nebraska Omaha - College of Information Science and Technology,2834A,,,,,,
-"University of Nebraska-Lincoln, Department of Computer Science and Engineering",1831,,,,,,
-"University of North Texas, Computer Science and Engineering",2742A,,,,,,
-University of Pennsylvania,914,,,,,,
-University of Pittsburgh,1212,,,,,,
-University of Rochester,901,,,,,,
-University of Tennessee Electrical Engineering & Computer Science Department,2702,,,,,,
-University of Texas at Dallas,1244,,,,,,
-University of Utah,2932A,,,,,,
-"University of Vermont, College of Engineering and Mathematical Sciences",2830,,,,,,
-University of Washington Bothell - Computer Science & Software Engineering,1833,,,,,,
-University of Waterloo,2941A,,,,,,
-US State Dept - Foreign Service,944,,,,,,
-USC,2440,,,,,,
-Vanguard,2720,,,,,,
-Veritas Technologies LLC,"3747, 1141",,,,,,
-"Verizon Communications, Inc.","3720, 2007, 3722",,,,,,
-ViaSat,"1506, 3435",,,,,,
-Villanova University,2345,,,,,,
-Virtually Live,1140,,,,,,
-Visa,"2701, 3728",,,,,,
-Washington University in St. Louis,1835,,,,,,
-Weebly,2928A,,,,,,
-West Monroe Partners,2734,,,,,,
-Workday,"1305, 3827",,,,,,
-"Xilinx, Inc.",2833A,,,,,,
-Yahoo,2001,,,,,,
-Yello,"3901, 2801",,,,,,
-Yelp,"3841, 1530",,,,,,
-Yext,2726,,,,,,
-Zendesk,2543,,,,,,
-ZestFinance,1145A,,,,,,
-Zillow,"920, 4004",,,,,,
-Zynga,"2829, 3732",,,,,,
+Name,BoothNumber
+@USAA,"2105, 3733, 3735"
+@WalmartLabs | Walmart Technology,"3240, 2231, 3241, 3242, 3243, 3244, 3245, 3246, 3247, 3248, 3250, 3252"
+3M,"2000, 3904, 3906"
+Accenture,"1130, 3942, 3944, 3946, 3948, 3950"
+ACM / ACM-W,"2705, 3844"
+ActBlue,2841A
+Activision,1040
+Activities,1007
+Acxiom,2943A
+Adobe,"2222, 3809"
+ADP,"1926, 3734"
+AIG,"2303, 3914"
+Airbnb,"1613, 3830, 3832, 3834"
+Akamai,"2933, 3742"
+Allstate Insurance Company,"1304, 3935"
+Amazon,"2211, 3313, 3315"
+American Express,"1240, 3952, 3953"
+American Museum of Natural History - Helen Fellowship,2602
+American University - Department of Computer Science,2643A
+Andreessen Horowitz,925
+AppDynamics,2722
+Appian,1040A
+Appirio,2729A
+"Apple, Inc.","3221, 2020, 3223, 3225, 3227, 3229, 3231, 3233, 3235, 3320, 3321, 3322, 3323, 3324, 3325, 3326, 3327, 3328, 3329, 3330, 3331, 3332, 3333, 3334, 3335"
+Argonne National Laboratory,2909
+Arizona State University,2901
+AT&T,"1201, 3905, 3907"
+athenahealth,"3846, 2034"
+Automattic,"1021, 3848"
+Avanade,"1230, 3445, 3447"
+Bank of America,"2531, 3249, 3251, 3253, 3352, 3353"
+Bentley University McCallum Graduate School of Business,2611
+Best Buy,"2621, 3921"
+Blackbaud,942A
+BlackRock,2732
+Blend,940
+Bloomberg L.P.,"1930, 3726"
+Blue Apron,2726A
+BNY Mellon,"2321, 3300, 3302"
+Booking.com,1100
+Boston University,2525
+Box,"2600, 3731"
+"Brocade Communications Systems, Inc.",944A
+Brown University,1205
+CA Technologies,"2327, 3307"
+Cadence,"2341, 3549"
+"Cal Poly, San Luis Obispo -- Computer Science and Software Engineering Department",2833
+California Institute of Technology,906
+California State University - Chico,2642
+Canonical,2941
+Capital One,"1709, 3201, 3203, 3205, 3207, 3209, 3211, 3213, 3215"
+Carbon,940A
+CareerBuilder,"1504, 3752"
+Carnegie Mellon University - Heinz College,1502
+Carnegie Mellon University Software Engineering Institute,2934
+"Carnegie Mellon University, Information Networking Institute",1401
+CDW,"2424, 3635"
+Cerner Corporation,2641A
+Cimpress,"2527, 3621"
+"Cisco Systems, Inc.","1720, 3721, 3723, 3725, 3727, 3729, 3820, 3822, 3824, 3826, 3828"
+Citi,2835A
+Civis Analytics Relaxation Lounge,1028
+ClassPass,2641
+CME Group,"2305, 3922"
+Collective Health,"2123, 3633"
+Colorado State University,2740A
+Comcast NBCUniversal,"2710, 3829"
+Cornell Tech,2740
+Coursera,2942
+Cox Automotive Technology,"4034, 2410"
+CRA-W,1122
+Credera,941
+"Cybersecurity Education Research and Outreach Center, Tennessee Tech",2734A
+D. E. Shaw & Co.,"2200, 4006"
+Dell,"1923, 3304, 3306, 3308"
+"Department of Computer Science, Dartmouth College",2802
+Deutsche Bank,"1311, 3649"
+Digital Innovation Group at Providence Health & Services,2227
+Diversity in Action,2731A
+DoubleDutch,2541A
+Drexel University,2832A
+Dropbox,"2400, 3301, 3303"
+DUKE COMPUTER SCIENCE,2002
+eBay,"1213, 3220, 3222"
+Electronic Arts,"2101, 3600"
+Embry-Riddle Aeronautical University,2934A
+EMC,"1921, 3305"
+Enova,941A
+Ericsson,"3602, 2511, 3604"
+ESPN Charging Lounge,2721
+Evernote,1144
+"Expedia, Inc.","1404, 3751, 3753"
+EY LLP,"1300, 3453"
+"Facebook, Inc.","731, 3520, 3521, 3522, 3523, 3524, 3525, 3526, 3527, 3528, 3529, 3530, 3531, 3532, 3533, 3534, 3535, 3540, 3541"
+FactSet Research Systems Inc.,"2306, 3626"
+Fannie Mae,"2125, 3630"
+"Fast Enterprises, LLC","1500, 3934"
+Fiat Chrysler Automobiles,"1931, 3930, 3932"
+Fidelity Investments,"2622, 3749"
+FINRA,"1933, 3850"
+"FireEye, Inc.",2722A
+fitbit,"1004, 3908"
+Flatiron Health,2944A
+Foursquare,2643
+Fox Networks Group,2830A
+Freddie Mac,2729
+FreeBSD Foundation,2004
+Gap Inc.,"2121, 3623"
+GE,"1813, 3212, 3214"
+Georgia Institute of Technology,2300
+GHC Lounge,"2906, 1002, 1343, 2704, 2731, 2733, 910"
+Girls Who Code,"1934, 3550"
+GoDaddy,"2013, 3200, 3202, 3204"
+Goldman Sachs,"2625, 3825"
+Google,"1730, 3601, 3603, 3605, 3607, 3700, 3701, 3702, 3703, 3704, 3705, 3706, 3707, 3709, 3711, 3712, 3713, 3714, 3715, 3800, 3802, 3804, 3806, 3808, 3810, 3812, 3814"
+Groupon,"1020, 4020"
+Gusto,"1027, 3544"
+Harris Corporation,"1111, 3926, 3928"
+Harvey Mudd College,2800
+Hasso Plattner Institute,2807
+HBO,2835
+Hewlett Packard Enterprise,"3206, 1101"
+Honeywell,"3640, 1013, 3641, 3642, 3643"
+Hortonworks,"2225, 3628"
+HubSpot,2735
+Hulu,1042A
+IBM,"1607, 3506, 3508"
+Imperial Infosys,2932
+Indeed,"1400, 3929"
+Indiana University School of Informatics and Computing,1109
+"Institute for Advanced Analytics, NC State University",2204
+Intel Corporation,"2331, 3401, 3403, 3405, 3407, 3409, 3411, 3413, 3415"
+Internet Society,2325
+"Intuit, Inc.","2613, 3423, 3425, 3427, 3429, 3431, 3433"
+Jane Street,2720A
+Jet,"3903, 2809"
+Johns Hopkins Engineering,2902
+Johns Hopkins University Information Security Institute,2900
+Johnson & Johnson,"1301, 4022"
+JP Morgan Chase & Co,"1113, 3833, 3835"
+Juniper Networks Inc.,"1601, 3613, 3615"
+Kaiser Permanente,1935
+kCura,"2635, 3543"
+Khan Academy,1532
+KPMG LLP,"902, 3845"
+Lawrence Berkeley National Laboratory,2911
+Lawrence Livermore National Laboratory (LLNL),"3924, 2915"
+LeanIn.Org,1000
+Liberal Arts College Association for Faculty Inclusion,2940A
+Liberty Mutual Insurance,"2624, 3823"
+LinkedIn,"4014, 3913, 3915, 4012, 913"
+Los Alamos National Laboratory,2843
+Los Alamos National Laboratory,2905
+"Lowe's Companies, Inc.","2505, 3801, 3900"
+macys.com,"2631, 3648"
+MailChimp,"2127, 3542"
+Marketo,"2601, 3546"
+Massachusetts Institute of Technology,900
+MasterCard,"2404, 3512, 3513, 3514, 3515"
+McKinsey & Company,2642A
+Media,1241
+Medtronic,"2714, 3840"
+Michigan State University,942
+Michigan Technological University,2706
+Microsoft,"1800, 3340, 3341, 3342, 3343, 3344, 3346, 3348, 3349, 3350"
+MIT Lincoln Laboratory,"2422, 3624"
+MongoDB Relaxation Lounge,1911
+Montana State University,2742
+Morgan Stanley,"2206, 3730"
+Mylan,"2313, 3644"
+National Center for Women & Information Technology (NCWIT),2103
+National Institute of Standards and Technology,2903
+Nationwide,"2713, 3310, 3312, 3314"
+Navy Civilian Careers,2928
+Navy Recruiting Command,2931
+NetApp,"2030, 3547"
+NetSuite,"921, 3741"
+New York Life,"2220, 3632"
+Northeastern University - College of Computer and Information Science,1313
+Northrop Grumman,"1208, 3629, 3631"
+Northwestern Mutual,"2304, 3831"
+Northwestern University,904
+Nutanix,2640A
+NYU Tandon School of Engineering,2831
+Oak Ridge National Laboratory,2907
+Olark,1144A
+Optimizely,2640
+Oracle,924
+Oracle,926
+Oscar Insurance,2724A
+Pace University,1341
+Pacific Northwest National Laboratory,2913
+PaintFest,2141
+Palantir Technologies,"1412, 3748, 3750"
+Palo Alto Networks,"2605, 3743, 3745"
+PayPal,"2320, 3813, 3815"
+Pinterest,"1214, 3351"
+Pitney Bowes,"2324, 3807"
+Priceline Group,"3933, 1001, 3931"
+"Princeton University , School of Engineering & Applied Science",2700
+Project Eos,1331
+"PROS, Inc","2207, 3902"
+Prudential,"1901, 3803"
+Purdue University,2804
+Pure Storage,"2326, 3551, 3553"
+PwC,"2828, 3724"
+Qualcomm,"1920, 3505, 3507, 3509, 3511"
+Quantcast,"1045, 4002"
+Quizlet,2730A
+Quora,"3653, 1207"
+Rackspace,"2201, 3612"
+Rakuten,"3625, 1924"
+Raytheon,"2221, 3821, 3920"
+Red Hat,"3923, 2620"
+Redfin,1140A
+Rochester Institute of Technology (RIT),2442
+Rockwell Automation,"2501, 3606, 3608"
+RosettaCommons,2543A
+Salesforce,"2031, 3441, 3443"
+SAP,"2006, 3614"
+Schlumberger,"1407, 3646"
+Schneider Electric,"2603, 3449"
+Sears Holding Corporation,2732A
+Shift,2541
+Shopify,"1440, 3811"
+Show Management - Specialty Food,"2741, 2241"
+Slack,"1024, 3940"
+"Snap, Inc.","1124, 3849, 3851"
+Sony Interactive Entertainment (PlayStation),"3651, 2444"
+Splunk>,"3545, 2414"
+Spotify,1142
+Square,"903, 3847"
+Stanford Computer Science Department,2301
+Starbucks,"3842, 2412"
+State Farm,"1315, 3652"
+Stevens Institute of Technology,2733A
+Stony Brook University,943A
+Stripe,"1120, 3552"
+SurveyMonkey,2943
+Symantec Corporation,"2604, 3805"
+"Synopsys, Inc.","1927, 4000"
+T. Rowe Price,1145
+Tableau,"2311, 3852"
+Target,"2521, 3500, 3501, 3502, 3503, 3504"
+Teradata,2834
+Texas A&M University - Computer Science and Engineering,2343
+The Anita Borg Institute,1420
+The George Washington University,2930
+The New York Times Developers,2724
+The University of Arizona - MIS and Computer Science departments,2929
+The University of Texas at Austin,2831A
+The Walt Disney Company,3421
+The Walt Disney Company,2821
+theCube,1220
+Thomson Reuters,"2113, 3620, 3622"
+ThoughtWorks,"2813, 3208, 3210"
+Thumbtack,1142A
+T-Mobile,"1041, 3548"
+Travelers Insurance,"2205, 3910, 3912"
+TripAdvisor,"3451, 1431"
+Tufts University Computer Science Department,2730
+Twilio,"2224, 3650"
+Twitch,"2307, 3740"
+Twitter,"1905, 3925, 3927"
+Two Sigma,"1411, 3224, 3226, 3228, 3230, 3232, 3234"
+Two Sigma Ventures,"1410, 3843"
+UBER,"2420, 3634"
+UC Berkeley,922
+"UC Berkeley, School of Information",907
+UC Irvine,2707
+Udacity,"2226, 3627"
+University of Denver,2832
+University of Houston,1025
+"University of Illinois, Urbana-Champaign ? CS @ ILLINOIS",1126
+"University of Maryland, Baltimore County",2930A
+"University of Michigan School of Information, Ann Arbor",1302
+"University of Michigan?Ann Arbor, Computer Science & Engineering",1405
+University of Nebraska Omaha - College of Information Science and Technology,2834A
+"University of Nebraska-Lincoln, Department of Computer Science and Engineering",1831
+"University of North Texas, Computer Science and Engineering",2742A
+University of Pennsylvania,914
+University of Pittsburgh,1212
+University of Rochester,901
+University of Tennessee Electrical Engineering & Computer Science Department,2702
+University of Texas at Dallas,1244
+University of Utah,2932A
+"University of Vermont, College of Engineering and Mathematical Sciences",2830
+University of Washington Bothell - Computer Science & Software Engineering,1833
+University of Waterloo,2941A
+US State Dept - Foreign Service,944
+USC,2440
+Vanguard,2720
+Veritas Technologies LLC,"3747, 1141"
+"Verizon Communications, Inc.","3720, 2007, 3722"
+ViaSat,"1506, 3435"
+Villanova University,2345
+Virtually Live,1140
+Visa,"2701, 3728"
+Washington University in St. Louis,1835
+Weebly,2928A
+West Monroe Partners,2734
+Workday,"1305, 3827"
+"Xilinx, Inc.",2833A
+Yahoo,2001
+Yello,"3901, 2801"
+Yelp,"3841, 1530"
+Yext,2726
+Zendesk,2543
+ZestFinance,1145A
+Zillow,"920, 4004"
+Zynga,"2829, 3732"
